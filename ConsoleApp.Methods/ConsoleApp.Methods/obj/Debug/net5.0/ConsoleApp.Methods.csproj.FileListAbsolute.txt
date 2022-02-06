@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\bin\Debug\net5.0\ConsoleApp.Methods.exe
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\bin\Debug\net5.0\ConsoleApp.Methods.deps.json
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\bin\Debug\net5.0\ConsoleApp.Methods.runtimeconfig.json
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\bin\Debug\net5.0\ConsoleApp.Methods.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\bin\Debug\net5.0\ConsoleApp.Methods.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\bin\Debug\net5.0\ref\ConsoleApp.Methods.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\bin\Debug\net5.0\ConsoleApp.Methods.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ConsoleApp.Methods.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ConsoleApp.Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ConsoleApp.Methods.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ConsoleApp.Methods.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ConsoleApp.Methods.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ConsoleApp.Methods.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ref\ConsoleApp.Methods.dll
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ConsoleApp.Methods.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp.Methods\ConsoleApp.Methods\obj\Debug\net5.0\ConsoleApp.Methods.genruntimeconfig.cache
